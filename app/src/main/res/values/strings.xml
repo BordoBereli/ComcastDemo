@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Comcast Demo</string>
+    <string name="content_list_title">Contents</string>
+    <string name="title">Title</string>
+    <!-- Errors -->
+    <string name="connection_error">Please check your internet connection.</string>
+
+    <!-- Detail -->
+    <string name="character_image_description">Character Image</string>
+    <string name="detail_title">Detail Title</string>
+    <string name="detail_description">Detail description</string>
+
+    <!-- Search -->
+    <string name="search_title_hint">Search in names &amp; descriptions</string>
+    <string name="search_not_found">"We couldn`t find any search result\nfor \"%s\"."</string>
+</resources>

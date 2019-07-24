@@ -1,0 +1,3 @@
+BASE_URL = "http://api.duckduckgo.com/"
+CONTENT_URL= "?q=the+wire+characters&format=json"
+AppName = "The Wire Characters"
